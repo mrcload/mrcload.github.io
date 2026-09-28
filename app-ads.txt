@@ -1,0 +1,4 @@
+# CRYSTAL BALL - app-ads.txt. Host at the root of the developer domain that the Play
+# listing links to, or the ad provider cannot verify the inventory.
+# The publisher id is derived from AD_APP_ID (ca-app-pub-8952156223152793~5147305848).
+google.com, pub-8952156223152793, DIRECT, f08c47fec0942fa0
